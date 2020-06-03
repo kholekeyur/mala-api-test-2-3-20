@@ -1,0 +1,28 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon home.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kholekeyur/node-api-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kholekeyur/node-api-test/issues"
+  },
+  "homepage": "https://github.com/kholekeyur/node-api-test#readme"
+}
